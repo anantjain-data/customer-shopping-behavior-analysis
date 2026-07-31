@@ -30,30 +30,25 @@ The objective is to identify trends, customer segments, and business opportuniti
 
 ## 📂 Project Structure
 
-```text
-Customer-Shopping-Behavior-Analysis/
+``` 
+customer-shopping-behavior-analysis/
 │
+├── README.md
+├── .gitignore
 ├── data/
 │   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
 ├── sql/
 │   └── customer_behavior_sql_queries.sql
-│
+├── notebooks/
+│   └── Customer_Shopping_Behavior_Analysis.ipynb
 ├── dashboard/
 │   ├── customer_behavior_dashboard.pbix
 │   └── dashboard.png
-│
 ├── docs/
-│   ├── Customer Shopping Behavior Analysis.pdf
-│   └── Business Problem Document.pdf
-│
-├── presentation/
-│   └── Customer-Shopping-Behavior-Analysis.pptx
-│
-└── README.md
+│   ├── Business Problem Document.pdf
+│   └── Customer Shopping Behavior Analysis.pdf
+└── presentation/
+    └── Customer-Shopping-Behavior-Analysis.pptx
 ```
 
 ---
