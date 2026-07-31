@@ -1,2 +1,0 @@
-customer_behavior_dashboard.pbix
-dashboard.png
