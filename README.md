@@ -149,7 +149,7 @@ Dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
